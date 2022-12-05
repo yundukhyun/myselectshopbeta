@@ -37,6 +37,6 @@ public class Product {
         this.image = requestDto.getImage();
         this.link = requestDto.getLink();
         this.lprice = requestDto.getLprice();
-        this.myprice = 1;
+        this.myprice = 0;
     }
 }
